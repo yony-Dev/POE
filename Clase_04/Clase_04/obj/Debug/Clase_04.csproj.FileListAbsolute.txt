@@ -1,0 +1,8 @@
+C:\Users\yony\Documents\UNIVO 02-25\POE\Clase_04\Clase_04\obj\Debug\Clase_04.csproj.AssemblyReference.cache
+C:\Users\yony\Documents\UNIVO 02-25\POE\Clase_04\Clase_04\obj\Debug\Clase_04.csproj.CoreCompileInputs.cache
+C:\Users\yony\Documents\UNIVO 02-25\POE\Clase_04\Clase_04\bin\Debug\Clase_04.exe.config
+C:\Users\yony\Documents\UNIVO 02-25\POE\Clase_04\Clase_04\bin\Debug\Clase_04.exe
+C:\Users\yony\Documents\UNIVO 02-25\POE\Clase_04\Clase_04\bin\Debug\Clase_04.pdb
+C:\Users\yony\Documents\UNIVO 02-25\POE\Clase_04\Clase_04\obj\Debug\Clase_04.exe
+C:\Users\yony\Documents\UNIVO 02-25\POE\Clase_04\Clase_04\obj\Debug\Clase_04.pdb
+C:\Users\yony\Documents\UNIVO 02-25\POE\Clase_04\Clase_04\obj\Debug\Clase_04.exe.config
