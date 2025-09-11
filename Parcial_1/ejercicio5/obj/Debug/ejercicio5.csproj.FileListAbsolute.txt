@@ -1,0 +1,8 @@
+C:\Users\yony\Desktop\Parcial_1\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\yony\Desktop\Parcial_1\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\yony\Desktop\Parcial_1\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\yony\Desktop\Parcial_1\ejercicio5\obj\Debug\ejercicio5.csproj.AssemblyReference.cache
+C:\Users\yony\Desktop\Parcial_1\ejercicio5\obj\Debug\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\yony\Desktop\Parcial_1\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\yony\Desktop\Parcial_1\ejercicio5\obj\Debug\ejercicio5.pdb
+C:\Users\yony\Desktop\Parcial_1\ejercicio5\obj\Debug\ejercicio5.exe.config
